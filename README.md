@@ -11,4 +11,4 @@ UAT | https://taishan-staging.herokuapp.com | https://taishan-staging.space.wmas
 
 ## 网络拓扑
 
-. /topology.png
+<img src="./topology.png">

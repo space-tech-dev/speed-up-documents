@@ -11,4 +11,6 @@ UAT | https://taishan-staging.herokuapp.com | https://taishan-staging.space.wmas
 
 ## 网络拓扑
 
+仅Heruko部分
+
 <img src="./topology.png">

@@ -3,8 +3,8 @@
 
 环境| 对外域名 | CNAME | 源站  | 备注
 :--- | :--- | :--- | :--- | :---
-Stage | heroku-staging.spacecycle.cn | heroku-staging.space.wmask.net | elementary-olive-mpgigygzd3td8e4gf216q6ej.herokudns.com |HTTS 443
-生产 | heroku-staging.spacecycle.cn | heroku-staging.space.wmask.net | immense-fortress-8039.peaceful-ridge-1011.herokuspace.com |HTTS 443
+Stage | heroku-staging.spacecycle.cn | heroku-staging.space.wmask.net | mysterious-thicket-8581.peaceful-ridge-1011.herokuspace.com | HTTS 443
+生产 | heroku-staging.spacecycle.cn | heroku-staging.space.wmask.net | immense-fortress-8039.peaceful-ridge-1011.herokuspace.com | HTTS 443
 
 <!--
 开发 | https://taishan-dev.herokuapp.com | https://taishan-dev.space.wmask.net:4501 | 
